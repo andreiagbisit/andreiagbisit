@@ -38,6 +38,6 @@ alidrey912@gmail.com                                                 Git, GitHub
 https://www.linkedin.com/in/andreiagbisit                            XAMPP, Vercel, Hostinger
 
                                                                      ++ DESIGN & MULTIMEDIA ++
-                                                                     Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro,
-                                                                     Figma
+                                                                     Adobe Photoshop, Adobe Illustrator,
+                                                                     Adobe Premiere Pro, Figma
 </pre>
