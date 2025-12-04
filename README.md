@@ -14,7 +14,7 @@
 &&&...;.....&.x&&.&&&.;..&&&&&&&&&&&&&.&&X.x..&:&x.&.....X&&&&&&&&
 &&&X...x&Xx.&&&&&&......&&&&&&&&&&&&&&.......&&&&...&&:...&&&&&&&&   ++ FRONT-END DEVELOPMENT ++
 &&&&...x&&&+&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&..&:X.X&&&&&&&&&&   HTML, CSS, Bootstrap, Tailwind CSS, JavaScript,
-&&&&.....&&&&&&&&&&&&&&&&&&&&&..&&&&&&&&&&&&&&&&&:.....&&&&&&&&&&&   React, TypeScript
+&&&&.....&&&&&&&&&&&&&&&&&&&&&..&&&&&&&&&&&&&&&&&:.....&&&&&&&&&&&   TypeScript, React
 &&&.........x.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&...;:..&&&&&&&&&&&
 &&&.&...........&&&&&&&&&&&$..:;;::.&&&&&&&&&&&...;....&&&&&&&&&&&   ++ BACK-END DEVELOPMENT ++
 &&&&&.......::...x&&&&&&&&&&.&&&&&&+&&&&&&&&$....::..&&&&&&&&&&&&&   Java, C#, Python, Django, PHP, Laravel, Express,
@@ -39,6 +39,6 @@ https://linkedin.com/in/andreiagbisit                                ++ WEB HOST
                                                                      XAMPP, Vercel, Hostinger
                                                                      
                                                                      ++ DESIGN & MULTIMEDIA ++
-                                                                     Adobe Photoshop, Adobe Illustrator,
-                                                                     Adobe Premiere Pro, Figma
+                                                                     Figma, Adobe Photoshop, Adobe Illustrator,
+                                                                     Adobe Premiere Pro
 </pre>
