@@ -35,7 +35,7 @@
 alidrey912@gmail.com                                                 ++ VERSION CONTROL ++
                                                                      Git, GitHub
 == LINKEDIN ==                                                       
-https://www.linkedin.com/in/andreiagbisit                            ++ WEB HOSTING ++
+https://linkedin.com/in/andreiagbisit                                ++ WEB HOSTING ++
                                                                      XAMPP, Vercel, Hostinger
                                                                      
                                                                      ++ DESIGN & MULTIMEDIA ++
