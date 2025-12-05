@@ -17,25 +17,26 @@
 &&&&.....&&&&&&&&&&&&&&&&&&&&&..&&&&&&&&&&&&&&&&&:.....&&&&&&&&&&&   TypeScript, React
 &&&.........x.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&...;:..&&&&&&&&&&&
 &&&.&...........&&&&&&&&&&&$..:;;::.&&&&&&&&&&&...;....&&&&&&&&&&&   ++ BACK-END DEVELOPMENT ++
-&&&&&.......::...x&&&&&&&&&&.&&&&&&+&&&&&&&&$....::..&&&&&&&&&&&&&   C#, Python, Django, PHP, Laravel, Express, Node.js
-&&&&&....&&.........x&&&&&&&&&xXxx&&&&&&&&.......;..&&&&&&&&&&&&&&
-&&&&&&&X..&..............:&&&&&&&&&&&&&............&&&&&&&&&&&&&&&   ++ MOBILE APP DEVELOPMENT ++   
-&&&&&&&&&&&&&&&&+&&&.:&..$&x:..:::.;X&&...&&&&&&..&&&&&&&&&&&&&&&&   Xamarin, .NET MAUI
-&&&&&&&&&&&&&&&&&&&&&&&&&xx&&&&&&&&&x.;$&...&&&...&&&&&&&&&&&&&&&&
-&&&&&&&&&&&&&&&&&&...&&&X$xx&$+.xXx;xX&&&&&.....X&&&&&&&&&&&&&&&&&   ++ DATABASE ++
-&&&&&&&&&&&&&&&....;..&&&&&&X.....&&&&&&&x.+x......&&&&&&&&&&&&&&&   MySQL, MongoDB
-&&&&&&&&&&x.....;.;x;..+&&&...X$X...&&&;..:xx..x&x.....&&&&&&&&&&&
-&&&&&.......:;+x::xx;;:.....X&&$+:$:.....;xx..X..xxx+........&&&&&   ++ API ++
-&&&;..;;++.+xxx;.;x+;;x:.&&&:.;.X..xx..;++x.;x.x.:xxX..x;xx;..&&&&   Brevo, Stripe, Clerk, Cloudinary, Postman
-&&...;;++::x+xx;+.xx+;+x;....X.:+x.::xxx+x.Xx.xx;.+xx:.x++x+;.$&&&
-&..:;;+xx;xxxx.;x:.;xxxxX&&.$$x&;&;;$Xxxxxxx.xxxx;.$$+.xxx;;;..&&&   ++ CMS ++
-&..;;;+x:.xxx:;xxx;.:xxx:.............:xXXx.;x+xxx.:$x.:x.++;;..&&   Wix, WordPress
-
-== EMAIL ==                                                          ++ VERSION CONTROL ++
-alidrey912@gmail.com                                                 Git, GitHub
-                                                                     
-== LINKEDIN ==                                                       ++ WEB HOSTING ++
-https://linkedin.com/in/andreiagbisit                                XAMPP, Vercel, Hostinger
+&&&&&.......::...x&&&&&&&&&&.&&&&&&+&&&&&&&&$....::..&&&&&&&&&&&&&   Java, C#, Python, Django, PHP, Laravel, Express,
+&&&&&....&&.........x&&&&&&&&&xXxx&&&&&&&&.......;..&&&&&&&&&&&&&&   Node.js
+&&&&&&&X..&..............:&&&&&&&&&&&&&............&&&&&&&&&&&&&&&   
+&&&&&&&&&&&&&&&&+&&&.:&..$&x:..:::.;X&&...&&&&&&..&&&&&&&&&&&&&&&&   ++ MOBILE APP DEVELOPMENT ++
+&&&&&&&&&&&&&&&&&&&&&&&&&xx&&&&&&&&&x.;$&...&&&...&&&&&&&&&&&&&&&&   Xamarin, .NET MAUI
+&&&&&&&&&&&&&&&&&&...&&&X$xx&$+.xXx;xX&&&&&.....X&&&&&&&&&&&&&&&&&   
+&&&&&&&&&&&&&&&....;..&&&&&&X.....&&&&&&&x.+x......&&&&&&&&&&&&&&&   ++ DATABASE ++
+&&&&&&&&&&x.....;.;x;..+&&&...X$X...&&&;..:xx..x&x.....&&&&&&&&&&&   MySQL, MongoDB
+&&&&&.......:;+x::xx;;:.....X&&$+:$:.....;xx..X..xxx+........&&&&&
+&&&;..;;++.+xxx;.;x+;;x:.&&&:.;.X..xx..;++x.;x.x.:xxX..x;xx;..&&&&   ++ API ++
+&&...;;++::x+xx;+.xx+;+x;....X.:+x.::xxx+x.Xx.xx;.+xx:.x++x+;.$&&&   Brevo, Stripe, Clerk, Cloudinary, Postman
+&..:;;+xx;xxxx.;x:.;xxxxX&&.$$x&;&;;$Xxxxxxx.xxxx;.$$+.xxx;;;..&&&
+&..;;;+x:.xxx:;xxx;.:xxx:.............:xXXx.;x+xxx.:$x.:x.++;;..&&   ++ CMS ++
+                                                                     Wix, WordPress
+== EMAIL ==
+alidrey912@gmail.com                                                 ++ VERSION CONTROL ++
+                                                                     Git, GitHub
+== LINKEDIN ==
+https://linkedin.com/in/andreiagbisit                                ++ WEB HOSTING ++
+                                                                     XAMPP, Vercel, Hostinger
                                                                      
                                                                      ++ DESIGN & MULTIMEDIA ++
                                                                      Figma, Adobe Photoshop, Adobe Illustrator,
